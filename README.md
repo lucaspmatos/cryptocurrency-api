@@ -4,7 +4,7 @@ Projeto Web utilizando a API Coin Market Cap <br>
 [Documentação de Autenticação](https://coinmarketcap.com/api/documentation/v1/#section/Authentication) <br>
 [Documentação API](https://coinmarketcap.com/api/documentation/v1/#) <br>
 
-Exercício realizado no bootcamp **React Web Developer** da [**Digital Innovation One**].(https://github.com/digitalinnovationone)
+Exercício realizado no bootcamp **React Web Developer** da [**Digital Innovation One**](https://github.com/digitalinnovationone).
 
 ## Professora do projeto
 :woman_teacher: [Bárbara Casac](https://github.com/bahcasac)
